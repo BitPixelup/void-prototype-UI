@@ -1,0 +1,21 @@
+.body{
+  background-color:#282a36 ;
+
+}
+.sec {
+  
+  margin-top: 300px;
+  display: flex;
+  justify-content:center ;
+  align-items: center;
+}
+input[type="search"] {
+  height: 50px;
+  width:300px ;
+  background-color: white;
+  box-shadow: 4px 4px 4px ;
+  border: 2px;
+  
+  
+  border-radius: 300px;
+}
